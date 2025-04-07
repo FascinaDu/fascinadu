@@ -1,8 +1,7 @@
 ## Olá, sou o Eduardo Fascina 🤗
 
 * 📖 Cursando ADS (Análise e Desenvolvimento de Sistemas)
-* 🤓 Estudando para ser BackEnd
-
+* 🤓 Estudando para ser FullStack
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fascinadu&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
