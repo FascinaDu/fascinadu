@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  ✨ "A cada push, uma versão melhor de mim mesmo."
+  📚 "A verdadeira felicidade só se dá quando você descobre quais problemas gosta de resolver" ~ Mark Manson
 </p>
